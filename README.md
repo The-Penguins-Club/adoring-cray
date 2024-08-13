@@ -22,4 +22,4 @@ Options:
   -h, --help          Display this help message
 ```
 
-PS: @rozari0 is planning to take the original go file at https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go and package it as a standalone binary for all platform.
+PS: [@rozari0](https://github.com/rozari0) is planning to take the original go file at https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go and package it as a standalone binary for all platform.
